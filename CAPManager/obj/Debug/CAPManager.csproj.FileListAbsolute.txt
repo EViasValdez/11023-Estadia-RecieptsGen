@@ -10,3 +10,15 @@ C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.ex
 C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.pdb
 C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.Acercade.resources
 C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.Splash.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\bin\Debug\CAPManager.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\bin\Debug\CAPManager.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\bin\Debug\CAPManager.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.Acercade.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.Splash.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\obj\Debug\CAPManager.pdb
