@@ -1,0 +1,12 @@
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\bin\Debug\CAPManager.exe.config
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\bin\Debug\CAPManager.exe
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\bin\Debug\CAPManager.pdb
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.Form1.resources
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.Properties.Resources.resources
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.csproj.GenerateResource.cache
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.exe
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.pdb
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.Acercade.resources
+C:\Users\defaultuser0\source\repos\CAPManager\CAPManager\obj\Debug\CAPManager.Splash.resources
