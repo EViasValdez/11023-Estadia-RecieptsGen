@@ -1,4 +1,4 @@
-# 2722-Estadia-RecieptsGen
+# RecieptsGen
 <!--Formato de descripción de repositorios-->
 <!----Notas---->
 <!----Separador de las notas---->
