@@ -7,5 +7,5 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Por ser hecha.
+Por ser hecha (espero sea pronto).
 <!----Separador---->
