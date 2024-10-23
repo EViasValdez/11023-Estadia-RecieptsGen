@@ -7,5 +7,5 @@
 <!----Separador de las notas---->
 
 <!----Separador---->
-Por ser hecha.
+Esta es la version hecha en C#.
 <!----Separador---->
