@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas:**
 
-**- Por ser puestas.**
+**- Aun por ser puestas.**
 <!----Separador de las notas---->
 
 <!----Separador---->
