@@ -22,3 +22,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\CAPMa
 D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\CAPManager\obj\Debug\CAPManager.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\CAPManager\obj\Debug\CAPManager.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\CAPManager\obj\Debug\CAPManager.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\11023-Estadia-RecieptsGen\CAPManager\CAPManager\obj\Debug\CAPManager.exe.config
