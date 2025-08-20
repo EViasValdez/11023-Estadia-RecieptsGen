@@ -1,4 +1,4 @@
-# CAP Manager (version en Windows Forms)
+# CAP Manager (version de RecieptsGen en Windows Forms / C# / .NET)
 
 <!----Descripción---->
 Por ser escrito.
