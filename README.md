@@ -1,4 +1,4 @@
-# CAP Manager (version de RecieptsGen en Windows Forms / C# / .NET)
+# CAPManager (version de RecieptsGen en Windows Forms / C# / .NET)
 
 ![Logo](https://github.com/EViasValdez/11023-Estadia-RecieptsGen/blob/main/CAPManager/CAPManager/Resources/CAPManagerLogo.png)
 
