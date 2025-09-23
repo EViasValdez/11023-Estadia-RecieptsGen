@@ -377,7 +377,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGVAgenda)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion
