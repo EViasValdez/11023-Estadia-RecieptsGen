@@ -100,7 +100,7 @@ namespace CAPManager
                 }
             }
             Writer.Close();
-            MessageBox.Show("Se ha guardado la sesion");
+            MessageBox.Show("Se ha guardado la sesión");
         }
         private void AbrirSesionToolStripMenuItem_Click(object sender, EventArgs e)
         {
