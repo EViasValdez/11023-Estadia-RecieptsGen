@@ -7,5 +7,5 @@ Previamente como parte de la segunda estancia de la universidad  realice un prog
 <!----Separador de la descripción---->
 
 <!----Detalles---->
-Detalles por ser escritos.
+Detalles adicionales por ser escritos.
 <!----Separador de los detalles---->
