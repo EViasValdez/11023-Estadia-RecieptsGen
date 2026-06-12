@@ -40,7 +40,7 @@
             this.GuardarSesionComoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.otrasOpcionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.AcercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.Panel1 = new System.Windows.Forms.Panel();
+            this.PanelInicio = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -61,7 +61,7 @@
             this.Guardar1 = new System.Windows.Forms.SaveFileDialog();
             this.Abrir = new System.Windows.Forms.OpenFileDialog();
             this.MenuStrip.SuspendLayout();
-            this.Panel1.SuspendLayout();
+            this.PanelInicio.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGVAgenda)).BeginInit();
             this.SuspendLayout();
             // 
@@ -167,29 +167,29 @@
             this.AcercaDeToolStripMenuItem.Text = "Acerca de";
             this.AcercaDeToolStripMenuItem.Click += new System.EventHandler(this.AcercaDeToolStripMenuItem_Click);
             // 
-            // Panel1
+            // PanelInicio
             // 
-            this.Panel1.Controls.Add(this.label5);
-            this.Panel1.Controls.Add(this.label4);
-            this.Panel1.Controls.Add(this.label2);
-            this.Panel1.Controls.Add(this.label3);
-            this.Panel1.Controls.Add(this.label1);
-            this.Panel1.Controls.Add(this.TextoDia);
-            this.Panel1.Controls.Add(this.TextoCuatrimestre);
-            this.Panel1.Controls.Add(this.TextoAsunto);
-            this.Panel1.Controls.Add(this.TextoTipo);
-            this.Panel1.Controls.Add(this.TextoFecha);
-            this.Panel1.Controls.Add(this.Quitar);
-            this.Panel1.Controls.Add(this.DGVAgenda);
-            this.Panel1.Controls.Add(this.Agregar);
-            this.Panel1.Controls.Add(this.AbrirPacientes);
-            this.Panel1.Controls.Add(this.CrearExpediente);
-            this.Panel1.Controls.Add(this.AbrirBiblioteca);
-            this.Panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Panel1.Location = new System.Drawing.Point(0, 32);
-            this.Panel1.Name = "Panel1";
-            this.Panel1.Size = new System.Drawing.Size(1467, 594);
-            this.Panel1.TabIndex = 11;
+            this.PanelInicio.Controls.Add(this.label5);
+            this.PanelInicio.Controls.Add(this.label4);
+            this.PanelInicio.Controls.Add(this.label2);
+            this.PanelInicio.Controls.Add(this.label3);
+            this.PanelInicio.Controls.Add(this.label1);
+            this.PanelInicio.Controls.Add(this.TextoDia);
+            this.PanelInicio.Controls.Add(this.TextoCuatrimestre);
+            this.PanelInicio.Controls.Add(this.TextoAsunto);
+            this.PanelInicio.Controls.Add(this.TextoTipo);
+            this.PanelInicio.Controls.Add(this.TextoFecha);
+            this.PanelInicio.Controls.Add(this.Quitar);
+            this.PanelInicio.Controls.Add(this.DGVAgenda);
+            this.PanelInicio.Controls.Add(this.Agregar);
+            this.PanelInicio.Controls.Add(this.AbrirPacientes);
+            this.PanelInicio.Controls.Add(this.CrearExpediente);
+            this.PanelInicio.Controls.Add(this.AbrirBiblioteca);
+            this.PanelInicio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PanelInicio.Location = new System.Drawing.Point(0, 32);
+            this.PanelInicio.Name = "PanelInicio";
+            this.PanelInicio.Size = new System.Drawing.Size(1467, 594);
+            this.PanelInicio.TabIndex = 11;
             // 
             // label5
             // 
@@ -363,7 +363,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1465, 625);
-            this.Controls.Add(this.Panel1);
+            this.Controls.Add(this.PanelInicio);
             this.Controls.Add(this.MenuStrip);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.MenuStrip;
@@ -372,11 +372,12 @@
             this.Text = "CAPManager";
             this.MenuStrip.ResumeLayout(false);
             this.MenuStrip.PerformLayout();
-            this.Panel1.ResumeLayout(false);
-            this.Panel1.PerformLayout();
+            this.PanelInicio.ResumeLayout(false);
+            this.PanelInicio.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGVAgenda)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         #endregion
@@ -392,7 +393,7 @@
         private System.Windows.Forms.ToolStripMenuItem otrasOpcionesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem AcercaDeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem GuardarSesionComoToolStripMenuItem;
-        private System.Windows.Forms.Panel Panel1;
+        private System.Windows.Forms.Panel PanelInicio;
         private System.Windows.Forms.DataGridView DGVAgenda;
         private System.Windows.Forms.Button Quitar;
         private System.Windows.Forms.DataGridViewTextBoxColumn Fecha;
